@@ -1,2 +1,2 @@
 # hello-world
-first repository
+Repositorio de prueba en github
